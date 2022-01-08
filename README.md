@@ -13,5 +13,5 @@ make main
 ```
 
 ## Reference
-[Red Black Tree Insertion](https://www.youtube.com/watch?v=UaLIHuR1t8Q)
-[Red Black Tree Deletion](https://www.youtube.com/watch?v=CTvfzU_uNKE)
+- [Red Black Tree Insertion](https://www.youtube.com/watch?v=UaLIHuR1t8Q)
+- [Red Black Tree Deletion](https://www.youtube.com/watch?v=CTvfzU_uNKE)
